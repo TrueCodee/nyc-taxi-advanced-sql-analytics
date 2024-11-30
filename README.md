@@ -6,7 +6,7 @@ This project provides a comprehensive analysis of NYC yellow taxi trip data from
 ## Dataset
 - **Source**: [NYC Yellow Taxi Trip Data (January 2015) on Kaggle](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data)
 - **Description**: This dataset contains details about yellow taxi trips, including trip times, distances, fares, passenger counts, and pickup/drop-off locations.
-- 
+
 **Key Features**:
   - `tpep_pickup_datetime` & `tpep_dropoff_datetime`: Timestamps of when the trip started and ended
   - `trip_distance`: Distance of the trip in miles
