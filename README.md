@@ -50,7 +50,7 @@ Longer trips naturally take more time, with a positive correlation between dista
    - `Matplotlib`
    - `Seaborn` (for visualizations)
    - `Folium` (for map visualizations)
-   - 
+ 
 ### Steps
 1. Clone this repository:
 ```bash
